@@ -1,0 +1,11 @@
+{
+  "name": "Victors Svensexa-bingo",
+  "short_name": "Svensexa-bingo",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#0b5fad",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
